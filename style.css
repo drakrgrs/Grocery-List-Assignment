@@ -1,0 +1,25 @@
+.list {
+    background-color: beige;
+    text-align: left;
+    display: inline-block;
+    width: fit-content;
+    padding: 5px;
+    border-style: groove;
+    margin: 10px;
+}
+
+
+img {
+    max-height: 220px;
+    margin: 10px;
+    border-style: groove;
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/flower-pattern_53876-64502.jpg?w=1380&t=st=1721425662~exp=1721426262~hmac=a27e8c3bf2fc0fc420ba2a6a81090f16f796fbca519424655ad36041a8b9a440);
+}
+
+.mainheader {
+    color:seagreen;
+    text-align: center;
+}
