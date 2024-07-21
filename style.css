@@ -13,6 +13,7 @@ img {
     max-height: 220px;
     margin: 10px;
     border-style: groove;
+    padding: 5px;
 }
 
 body {
